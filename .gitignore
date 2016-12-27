@@ -3,6 +3,12 @@ logs
 *.log
 npm-debug.log*
 
+*.class
+/*.idea
+*.iml
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
 # Runtime data
 pids
 *.pid
